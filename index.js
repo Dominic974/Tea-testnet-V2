@@ -1,4 +1,4 @@
-// index.js cryptopunkstar connect ethereum
+// index.js Dominic974 connect ethereum
 
 const Web3 = require('web3');
 
