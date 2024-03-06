@@ -1,7 +1,7 @@
 {
-    "name": "cryptopunkstar-eth",
+    "name": "Tea-testnet-V2",
     "version": "1.0.0",
-    "description": "An interacting with Ethereum blockchain with cryptopunkstar",
+    "description": "An interacting with Ethereum blockchain with Dominic974",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,12 +10,12 @@
         "web3",
         "ethereum"
     ],
-    "author": "cryptopunkstar",
+    "author": "Dominic974",
     "license": "MIT",
     "dependencies": {
         "web3": "^1.0.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/cryptopunkstar/cryptopunkstar-eth.git"
+        "url": "https://github.com/Dominic974/Tea-testnet-V2.git"
       }
