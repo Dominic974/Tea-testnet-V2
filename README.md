@@ -9,7 +9,7 @@ You can install Simple Web3 Project via npm:
 
 npm install Dominic974
 Usage
-const SimpleWeb3Project = require('Testnet');
+const SimpleWeb3Project = require('Tea-testnet-V2');
 
 // Create an instance with your preferred Ethereum node endpoint const web3Project = new SimpleWeb3Project('https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID');
 
